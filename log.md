@@ -1,8 +1,5 @@
-# 100 Days Of Code - Log
-# 100 Days Of Code - 学習ログ
-
-### Day 1: 2020/06/23
-### 1日目: 2020年6月23日
+# 100 Days Of Code - Log - 学習ログ
+### Day 1: 2020/06/23 0:00 + 1:00 = 1:00
 
 **Today's Progress**:
 - Adjusted handler functions in spellselection so that the selection candidates generated can easily be handed off to the curses player creation module for display and input/processing.
@@ -19,3 +16,19 @@ Working in curses can be a mess sometime since it seems quite low-level and requ
 
 **思ったこと**
 cursesはかなり低レベルのモジュールなので、何もかも明確に書く必要があるんだ。ちょこちょこミスもあるが、気づくのがだんだん早くなってくる・・・底力が付いてきた証拠。１週間前に書いたコードを見ると非常にいい参考になるが、やはりコードは読みづらい。コードをレビュー、整理、リファクタリングする時間も取らねば。
+
+### Day 2: 2020/06/24 1:00 + 1:15 = 2:15
+
+**Today's Progress**:
+- Spell selection confirmation/finalization/application to player object
+- Debugging
+
+**今日の進捗**:
+- spell選択の確認画面のUI仕上げ・・・playerオブジェクトへの反映など
+- デバッグ諸々
+
+**Thoughts:**
+An hour goes by faster than I thought... need to refactor the code, but for now it is passing.
+
+**思ったこと**
+思ったより１時間ってあっという間に終わる。コードのリファクタリング後回しにしておくけど、一通り最初から最後まで動いたのでよかった。
