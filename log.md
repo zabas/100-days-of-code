@@ -32,3 +32,19 @@ An hour goes by faster than I thought... need to refactor the code, but for now 
 
 **思ったこと**
 思ったより１時間ってあっという間に終わる。コードのリファクタリング後回しにしておくけど、一通り最初から最後まで動いたのでよかった。
+
+### Day 3: 2020/06/25 2:15 + 2:06 = 4:21
+
+**Today's Progress**:
+- Finished player creation main functions
+- Started studying urwid
+
+**今日の進捗**:
+- player作成のメイン関数仕上げ
+- urwidの勉強始めた
+
+**Thoughts:**
+Looks like if I use urwid I will be able to write a lot more quicker without having to reinvent the wheel curses. Going to invest in some time now to learn urwid, probably take the next few days until I am comfortable.
+
+**思ったこと**
+cursesだとかなり低レベルまで何もかも自分で書かないといけないので、urwidの方が楽にいろいろなやりたいことが書けそう。今時間を投資すれば、絶対回収できる。urwid使いこなせるには数日間かかりそうだが、これから頑張ろう。
