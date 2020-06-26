@@ -48,3 +48,19 @@ Looks like if I use urwid I will be able to write a lot more quicker without hav
 
 **思ったこと**
 cursesだとかなり低レベルまで何もかも自分で書かないといけないので、urwidの方が楽にいろいろなやりたいことが書けそう。今時間を投資すれば、絶対回収できる。urwid使いこなせるには数日間かかりそうだが、これから頑張ろう。
+
+### Day 4: 2020/06/26 4:21 + 1:13 = 5:34
+
+**Today's Progress**:
+- mompy code cleanup
+- urwid studying continued
+
+**今日の進捗**:
+- mompy コードクレンジング
+- urwidの勉強の続き
+
+**Thoughts:**
+Still trying to disect and understand all the structure of of urwid's more advanced functions. Have time this weekend to go in deep.
+
+**思ったこと**
+urwidの高度な機能をまだ完全に理解できていないが少しずつ分解してみて、調整してみるとだんだんわかってきそう。週末はたっぷり時間があるので、勉強続ける。
