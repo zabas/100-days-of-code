@@ -64,3 +64,33 @@ Still trying to disect and understand all the structure of of urwid's more advan
 
 **思ったこと**
 urwidの高度な機能をまだ完全に理解できていないが少しずつ分解してみて、調整してみるとだんだんわかってきそう。週末はたっぷり時間があるので、勉強続ける。
+
+### Day 5: 2020/06/27 5:34 + 1:54 = 7:28
+
+**Today's Progress**:
+- urwid & mompy - dynamically created created book selection interface including validation
+- created child classes to modify the standard object and give it extra abilities
+
+**今日の進捗**:
+- urwid & mompy - ブック選択インタフェイスと検証機能を動的に作るようにできた
+- 標準オブジェクトの子クラスを作り、いろいろな機能を追加
+
+**Thoughts:**
+Gained insight into how urwid is working. It's much more robust and versatile than curses.
+
+**思ったこと**
+urwidの大まかな動きを理解できるようになった。cursesよりも丈夫で使い勝手が良い。
+
+### Day 6: 2020/06/28 7:28 + 1:00 = 8:28
+
+**Today's Progress**:
+- urwid & mompy - check box and retort objects created
+
+**今日の進捗**:
+- urwid & mompy - チェックボックスとretortオブジェクト作成
+
+**Thoughts:**
+Good refresh on what I did yesterday, coding everyday is very helpful and I spend a lot less time trying to relearn things.
+
+**思ったこと**
+昨日の勉強の良い復習。毎日コーディングすると便利、やはり忘れたことを再び覚える時間がかなり減った
