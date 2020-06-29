@@ -94,3 +94,19 @@ Good refresh on what I did yesterday, coding everyday is very helpful and I spen
 
 **思ったこと**
 昨日の勉強の良い復習。毎日コーディングすると便利、やはり忘れたことを再び覚える時間がかなり減った
+
+### Day 7: 2020/06/29 8:28 + 1:01 = 9:29
+
+**Today's Progress**:
+- player creation retort verification logic - still in progress
+- experimenting with horizontal menu interfaces in urwid
+
+**今日の進捗**:
+- player作成のretort検証ロジック・・・まだ途中
+- urwid: 横に広がるメニュのUIの実験
+
+**Thoughts:**
+Had to get up early for work today and was tired... didn't get in too much quality coding time.
+
+**思ったこと**
+仕事で早起きしたため、疲れすぎてそれほど良いコーディングできていない。
