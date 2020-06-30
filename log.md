@@ -114,15 +114,15 @@ Had to get up early for work today and was tired... didn't get in too much quali
 ### Day 8: 2020/06/30 9:29 + 1:26 = 10:55
 
 **Today's Progress**:
-- player creation retort verification logic - still in progress
-- experimenting with horizontal menu interfaces in urwid
+- more encapsulation - additonal layers of menu and submenus created
+- screen changing for each part of the creation process
 
 **今日の進捗**:
-- player作成のretort検証ロジック・・・まだ途中
-- urwid: 横に広がるメニュのUIの実験
+- カプセル化、メニューと入れ子のサブメニュー画面作成
+- 作成過程での画面遷移対応できた
 
 **Thoughts:**
-Had to get up early for work today and was tired... didn't get in too much quality coding time.
+Trying to apply unit test and functional test principles... still hard sometimes.
 
 **思ったこと**
-仕事で早起きしたため、疲れすぎてそれほど良いコーディングできていない。
+ユニットテストと機能テストの考え方をもって作業するといろいろメリットありますが、少し難しい。
