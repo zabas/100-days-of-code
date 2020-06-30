@@ -110,3 +110,19 @@ Had to get up early for work today and was tired... didn't get in too much quali
 
 **思ったこと**
 仕事で早起きしたため、疲れすぎてそれほど良いコーディングできていない。
+
+### Day 8: 2020/06/30 9:29 + 1:26 = 10:55
+
+**Today's Progress**:
+- player creation retort verification logic - still in progress
+- experimenting with horizontal menu interfaces in urwid
+
+**今日の進捗**:
+- player作成のretort検証ロジック・・・まだ途中
+- urwid: 横に広がるメニュのUIの実験
+
+**Thoughts:**
+Had to get up early for work today and was tired... didn't get in too much quality coding time.
+
+**思ったこと**
+仕事で早起きしたため、疲れすぎてそれほど良いコーディングできていない。
