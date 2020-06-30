@@ -125,4 +125,4 @@ Had to get up early for work today and was tired... didn't get in too much quali
 Trying to apply unit test and functional test principles... still hard sometimes.
 
 **思ったこと**
-ユニットテストと機能テストの考え方をもって作業するといろいろメリットありますが、少し難しい。
+ユニットテストと機能テストの考え方をもって作業するといろいろメリットありますが、少し難しいですね。
