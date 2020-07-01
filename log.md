@@ -126,3 +126,19 @@ Trying to apply unit test and functional test principles... still hard sometimes
 
 **思ったこと**
 ユニットテストと機能テストの考え方をもって作業するといろいろメリットありますが、少し難しいですね。
+
+### Day 9: 2020/07/01 10:55 + 1:00 = 11:55
+
+**Today's Progress**:
+- Messy first running program from start to end
+- Start on cleaning up code
+
+**今日の進捗**:
+- 汚いけど最初から最後まで実行できるプログラム
+- コードのクレンジング作業開始
+
+**Thoughts:**
+I think I code best in the morning... feel bad about taking time to organize my code instead of writing new functions, but I need to tell myself not to think this way and hone my practice.
+
+**思ったこと**
+朝の方が調子がいい。新しい機能を追加するよりも、時間かけて自分が書いたコードを磨くために時間を費やすのは罪悪感を感じるが、悪いことではなく、研鑽だと思えばやってよい。
