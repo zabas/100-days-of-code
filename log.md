@@ -142,3 +142,17 @@ I think I code best in the morning... feel bad about taking time to organize my 
 
 **思ったこと**
 朝の方が調子がいい。新しい機能を追加するよりも、時間かけて自分が書いたコードを磨くために時間を費やすのは罪悪感を感じるが、悪いことではなく、研鑽だと思えばやってよい。
+
+### Day 10: 2020/07/02 11:55 + 1:35 = 13:30
+
+**Today's Progress**:
+- Cleaning up creation program, finding bugs and squashing
+
+**今日の進捗**:
+- プレイヤー作成プログラムの修正、バッグ炙り出し、撲滅
+
+**Thoughts:**
+Always work from large to small when planning the overall structure!
+
+**思ったこと**
+全体構造を考える時、必ず「大→小」の順に進めるとよい。
