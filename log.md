@@ -156,3 +156,17 @@ Always work from large to small when planning the overall structure!
 
 **思ったこと**
 全体構造を考える時、必ず「大→小」の順に進めるとよい。
+
+### Day 11: 2020/07/02 13:30 + 1:16 = 14:46
+
+**Today's Progress**:
+- Finished main creation program, cleaning up
+
+**今日の進捗**:
+- 作成プログラム完成、コード改良
+
+**Thoughts:**
+Objects are your friend!
+
+**思ったこと**
+迷ったら、オブジェクト使いましょう
