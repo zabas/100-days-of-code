@@ -157,7 +157,7 @@ Always work from large to small when planning the overall structure!
 **思ったこと**
 全体構造を考える時、必ず「大→小」の順に進めるとよい。
 
-### Day 11: 2020/07/02 13:30 + 1:16 = 14:46
+### Day 11: 2020/07/03 13:30 + 1:16 = 14:46
 
 **Today's Progress**:
 - Finished main creation program, cleaning up
@@ -170,3 +170,17 @@ Objects are your friend!
 
 **思ったこと**
 迷ったら、オブジェクト使いましょう
+
+### Day 12: 2020/07/04 14:46 + 1:09 = 15:55
+
+**Today's Progress**:
+- Trying to figure out overlays for a help menu
+
+**今日の進捗**:
+- ヘルプメニュー表示に必要なoverlayの勉強
+
+**Thoughts:**
+Getting confused by this API... need to do some modeling in an new experimental program.
+
+**思ったこと**
+このAPIでわからないことまだまだたくさんある。別の単独実験プログラムでいろいろと試すと良さそう。
