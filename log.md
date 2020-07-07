@@ -184,3 +184,45 @@ Getting confused by this API... need to do some modeling in an new experimental 
 
 **思ったこと**
 このAPIでわからないことまだまだたくさんある。別の単独実験プログラムでいろいろと試すと良さそう。
+
+### Day 13: 2020/07/05 15:55 + 1:04 = 16:59
+
+**Today's Progress**:
+- Fixed some nasty bugs and found more.
+
+**今日の進捗**:
+- 根深いバッグを見つけ修正。さらにバッグ発見。
+
+**Thoughts:**
+Getting confused by this API... need to do some modeling in an new experimental program.
+
+**思ったこと**
+このAPIでわからないことまだまだたくさんある。別の単独実験プログラムでいろいろと試すと良さそう。
+
+### Day 14: 2020/07/06 16:59 + 1:08 = 18:07
+
+**Today's Progress**:
+- Added new game creation menu
+
+**今日の進捗**:
+- 新規ゲーム作成メニュー追加
+
+**Thoughts:**
+After spending a week in urwid I am much more comfortable now.
+
+**思ったこと**
+一週間もurwid触ったらだいぶわかるようになってきた気がする
+
+### Day 15: 2020/07/07 18:07 + 1:07 = 19:14
+
+**Today's Progress**:
+- Error proofing inputs and exit conditions
+
+**今日の進捗**:
+- 各種入力や終了条件のエラー対策・修正
+
+**Thoughts:**
+Need to take some time to plan my next actions.
+
+**思ったこと**
+次どんな課題に取り組むか計画立てる時間が必要。
