@@ -226,3 +226,17 @@ Need to take some time to plan my next actions.
 
 **思ったこと**
 次どんな課題に取り組むか計画立てる時間が必要。
+
+### Day 16: 2020/07/08 19:14 + 1:07 = 20:21
+
+**Today's Progress**:
+- Figuring out how to use GridFlow in urwid for map display
+
+**今日の進捗**:
+- urwidのGridFlowを使った地図の表示の勉強
+
+**Thoughts:**
+GridFlow's ability to resize is definitely not what I want here. Need to find a balance between control and flexibility. Probably need to carefully specify and control each row and column.
+
+**思ったこと**
+GrifFlowのリサイズ機能（レスポンシブ仕様）はやはり使いたくないということがよくわかった。コントロールと柔軟性とのバランスが必要。各行と列の長さを強制的に指定して対応するしかないのでは？
