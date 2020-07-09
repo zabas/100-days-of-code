@@ -239,4 +239,18 @@ Need to take some time to plan my next actions.
 GridFlow's ability to resize is definitely not what I want here. Need to find a balance between control and flexibility. Probably need to carefully specify and control each row and column.
 
 **思ったこと**
-GrifFlowのリサイズ機能（レスポンシブ仕様）はやはり使いたくないということがよくわかった。コントロールと柔軟性とのバランスが必要。各行と列の長さを強制的に指定して対応するしかないのでは？
+GridFlowのリサイズ機能（レスポンシブ仕様）はやはり使いたくないということがよくわかった。コントロールと柔軟性とのバランスが必要。各行と列の長さを強制的に指定して対応するしかないのでは？
+
+### Day 17: 2020/07/09 20:21 + 1:01 = 21:22
+
+**Today's Progress**:
+- Creation of main map game screen
+
+**今日の進捗**:
+- メインゲームのマップ画面作成
+
+**Thoughts:**
+Need to figure out how to control spacing. I think the map will be a huge matrix of MapTile class objects I will create.
+
+**思ったこと**
+余白などのスペースの制御がまだ上手にできない。マップはMapTileというカスタムクラスのオブジェクトを集めたマトリックスになるのではないか。
