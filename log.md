@@ -254,3 +254,19 @@ Need to figure out how to control spacing. I think the map will be a huge matrix
 
 **思ったこと**
 余白などのスペースの制御がまだ上手にできない。マップはMapTileというカスタムクラスのオブジェクトを集めたマトリックスになるのではないか。
+
+### Day 18: 2020/07/10 21:22 + 1:02 = 22:24
+
+**Today's Progress**:
+- Slack bot programming
+- Various module code cleanup
+
+**今日の進捗**:
+- Slack用のボットのプログラム作成開始
+- 別のモジュールのコード見直し
+
+**Thoughts:**
+It's good to try a few small things on the side and take a break. Also set time to revisit your own bad code.
+
+**思ったこと**
+大きなプロジェクト進めている最中、たまに別の小さいプロジェクトをするといい刺激になるし、休憩も大事だね。あと、しばらく見ていない昔書いたコードを見直す時間も大事。
