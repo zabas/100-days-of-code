@@ -270,3 +270,31 @@ It's good to try a few small things on the side and take a break. Also set time 
 
 **思ったこと**
 大きなプロジェクト進めている最中、たまに別の小さいプロジェクトをするといい刺激になるし、休憩も大事だね。あと、しばらく見ていない昔書いたコードを見直す時間も大事。
+
+### Day 19: 2020/07/11 22:24 + 1:15 = 23:39
+
+**Today's Progress**:
+- Started creating a city management screen
+
+**今日の進捗**:
+- 都市管理画面の作成開始
+
+**Thoughts:**
+Will need to change the old functions I wrote that have a lot of direct terminal interface.
+
+**思ったこと**
+前に作った関数はターミナルで直接制御するものだったので、改修が必要になりそう。
+
+### Day 20: 2020/07/12 23:39 + 1:17 = 24:56
+
+**Today's Progress**:
+- Building selection screen started
+
+**今日の進捗**:
+- 建築物選択画面に着手
+
+**Thoughts:**
+It's important for me to struggle with urwid some more, though I am definitely understanding a lot more now.
+
+**思ったこと**
+urwidとまた同じミスしたり、どこ理解できているかに気付きがえられるので、とても大事だな。
