@@ -298,3 +298,17 @@ It's important for me to struggle with urwid some more, though I am definitely u
 
 **思ったこと**
 urwidとまた同じミスしたり、どこ理解できているかに気付きがえられるので、とても大事だな。
+
+### Day 21: 2020/07/13 24:56 + 1:27  = 26:23
+
+**Today's Progress**:
+- Encapsulated city and building screen into one application object
+
+**今日の進捗**:
+- 都市と建物の各画面を一つのアプリケーションオブジェクトに統合
+
+**Thoughts:**
+Not sure on how to handle connect signals now...
+
+**思ったこと**
+この場合、connect_signalの使い方はどうなるか？
