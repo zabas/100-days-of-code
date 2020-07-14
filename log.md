@@ -312,3 +312,17 @@ Not sure on how to handle connect signals now...
 
 **思ったこと**
 この場合、connect_signalの使い方はどうなるか？
+
+### Day 22: 2020/07/14 26:23 + 1:01  = 27:24
+
+**Today's Progress**:
+- City screen now updates per turn!!!
+
+**今日の進捗**:
+- ターン毎に都市画面が更新されます！
+
+**Thoughts:**
+Also made some minor aesthetic changes. Need to update twice, so I want to create a separate function to generate the main screen content and call that function by the create and update functions.
+
+**思ったこと**
+その他細かいビジュアル改善も。２つの似ている関数があるため、二重メンテがよろしくない。次は表示コンテンツを用意する関数一つを作り、作成と更新の関数から呼び出すように変えよう。
