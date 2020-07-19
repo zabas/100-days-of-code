@@ -388,3 +388,33 @@ Like the weekends with extra time for coding and allows me to tackle larger task
 
 **思ったこと**
 週末は時間たっぷりあるので、平日だとできない大きなタスクに取り掛かることもできる。
+
+### Day 27: 2020/07/19 32:55 + 2:09  = 35:04
+
+**Today's Progress**:
+- Fixing bugs from refactoring, making sure things work again
+- Cleaned up city module and renaming variables and methods (PEP8 compliant)
+
+**今日の進捗**:
+- リファクタリングのバッグ潰し、正常に機能しているように調整
+- cityモジュールのクレンジング。変数やメソッドの名称変更（PEP8準拠）
+
+**Thoughts:**
+- Taking time to organize things relieves stress
+
+**思ったこと**
+- コードレビューなどに時間を使うとあとでそのコードを見るとストレスが減りますね。
+
+### Day 28: 2020/07/20 35:04 + 1:15  = 36:19
+
+**Today's Progress**:
+- Worked on scrollable grid for world map interface
+
+**今日の進捗**:
+- スクロール可能なワールドマップの開発
+
+**Thoughts:**
+- Probably need to finish on the weekend when I have more time.
+
+**思ったこと**
+- 何日もかかる必要なので、時間がある週末とかにまとめて開発続けよう。
