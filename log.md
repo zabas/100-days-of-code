@@ -326,3 +326,65 @@ Also made some minor aesthetic changes. Need to update twice, so I want to creat
 
 **思ったこと**
 その他細かいビジュアル改善も。２つの似ている関数があるため、二重メンテがよろしくない。次は表示コンテンツを用意する関数一つを作り、作成と更新の関数から呼び出すように変えよう。
+
+### Day 23: 2020/07/15 27:24 + 1:02  = 28:26
+
+**Today's Progress**:
+- Refactoring of city and building module code
+- Testing out how to make a tile and grid for worldmap
+
+**今日の進捗**:
+- city及buildingモジュールのリファクタリング
+- ワールドマップ用のタイルやグリッドの実験
+
+**Thoughts:**
+Still going to take a lot of time before I figure out how to pull off this world map.
+
+**思ったこと**
+ワールドマップの実現はまだまだ程遠いな。
+
+### Day 24: 2020/07/16 28:26 + 1:11  = 29:37
+
+**Today's Progress**:
+- Developed building classes, now all buildings have race data
+
+**今日の進捗**:
+- buildingのクラス構築。すべてのbuildingは種族データ格納。
+
+**Thoughts:**
+- building and modeling the complexity of the game takes just as much as the normal coding. I enjoy it thought.
+
+**思ったこと**
+
+
+### Day 25: 2020/07/17 29:37 + 1:15  = 30:52
+
+**Today's Progress**:
+- Changed building requirements from strings to dynamic classes.
+- Added building descriptions (some)
+
+**今日の進捗**:
+- buildingクラスの建設条件を文字列から別のクラスに変更。
+- 一部のbuildingクラスに補足説明文を追加
+
+**Thoughts:**
+Beginning to see how to organize very more complicated programs and get defensive.
+
+**思ったこと**
+たくさんのオブジェクトの整理や運用法にだんだん慣れてきた気がする。
+
+### Day 26: 2020/07/18 30:52 + 2:03  = 32:55
+
+**Today's Progress**:
+- Cleaning up unit module race data, class refactoring, updating city/building/unit functions
+- City class can now generate available unit classes
+
+**今日の進捗**:
+- unitモジュールとの種族データ整理、クラスリファクタリング、city/building/unitの関数更新
+- cityクラスは作成可能なクラスのリストを表示できるようになった
+
+**Thoughts:**
+Like the weekends with extra time for coding and allows me to tackle larger tasks.
+
+**思ったこと**
+週末は時間たっぷりあるので、平日だとできない大きなタスクに取り掛かることもできる。
