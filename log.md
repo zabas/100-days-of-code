@@ -418,3 +418,19 @@ Like the weekends with extra time for coding and allows me to tackle larger task
 
 **思ったこと**
 - 何日もかかる必要なので、時間がある週末とかにまとめて開発続けよう。
+
+### Day 28: 2020/07/21 36:19 + 1:17  = 37:36
+
+**Today's Progress**:
+- Fixed city screen to properly handle building class updates
+- Added starting city generation functions
+
+**今日の進捗**:
+- city画面でのbuildingクラスの変更が処理できるようになった
+- 最初のcityの生成関数など
+
+**Thoughts:**
+- Due to the complex nature of the project I usually need to update multiple modules everytime I make a change. I realize how important it is to break things up into small manageable chunks.
+
+**思ったこと**
+- このプロジェクトがとても複雑なせいで、変更がある度に複数のモジュールに手を入れないといけない。毎日の作業を少しずつ管理できる範囲に絞り、計画的に進めることの大切さを感じね。
