@@ -434,3 +434,77 @@ Like the weekends with extra time for coding and allows me to tackle larger task
 
 **思ったこと**
 - このプロジェクトがとても複雑なせいで、変更がある度に複数のモジュールに手を入れないといけない。毎日の作業を少しずつ管理できる範囲に絞り、計画的に進めることの大切さを感じね。
+
+### Day 29: 2020/07/22 37:36 + 1:05  = 38:41
+
+**Today's Progress**:
+- Refactoring and cleanup
+- Fixed building selling price data and functions
+
+**今日の進捗**:
+- リファクタリング・整理
+- 建物の売買価格計算修正
+
+**Thoughts:**
+- Don't feel as scared about being bold in improving my code.
+
+**思ったこと**
+- コード改善が目的であれば、大胆な修正は惜しまない。
+
+### Day 30: 2020/07/23 38:41 + 1:01  = 39:42
+
+**Today's Progress**:
+- Production selection screen improved
+
+**今日の進捗**:
+- 生産選択画面の改善
+
+**Thoughts:**
+- Small UI improvements and creature comforts are worth the time to add.
+
+**思ったこと**
+- どんなに小さな改善であっても、子持ちよくなるのであればどんどん進め。
+
+### Day 31: 2020/07/24 39:42 + 2:03  = 41:45
+
+**Today's Progress**:
+- Production related functions cleaned up and improved
+
+**今日の進捗**:
+- 生産関係の関数の修正・改善
+
+**Thoughts:**
+- Feeling like I got better at identifying many areas of improvement.
+
+**思ったこと**
+- たくさんの改善点を見つけるのも上手になってきた気がする。
+
+### Day 32: 2020/07/25 41:45 + 1:05  = 42:50
+
+**Today's Progress**:
+- Notifications support added
+- City Enchantment support added
+
+**今日の進捗**:
+- 通知対
+- CityのEnchantment対応
+
+**Thoughts:**
+- Noticed my code is starting to look more Pythonic.
+
+**思ったこと**
+- 自分が書くコードがよりPythonicになってきていることに気がづいた。
+
+### Day 33: 2020/07/26 42:50 + 1:00  = 43:50
+
+**Today's Progress**:
+- Added production completion popup
+
+**今日の進捗**:
+- 生産完了画面
+
+**Thoughts:**
+- Feels good to add something you have been wanting to do for some time.
+
+**思ったこと**
+- しばらく前からやろうと思っていたことを実現できると気持ちいいね。
