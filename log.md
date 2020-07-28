@@ -523,21 +523,20 @@ Like the weekends with extra time for coding and allows me to tackle larger task
 - One third the way done with this 100DaysOfCode!
 
 **思ったこと**
-
 - 100DaysOfCodeの1/3を無事完走することができました
 
 ### Day 35: 2020/07/28 44:59 + 1:05  = 46:04
 
 **Today's Progress**:
 - Unrest bug from old code. Now adjusts pop depending upon unrest levels (+/-)
-- Unrest fixes.
+- City now handles creating new unit instances and stores in player's all_units dictionary, with coordinates.
 
 **今日の進捗**:
-- 住居増産、貿易強化モードの対応
-- 市民不安が正しく作動するように修正。
+- 市民不安のバグ修正（昔のコード起因）。市民不安のプラマイにより市民人口の調整も自動でできるようになった。
+- 都市は新規ユニットのインスタンスを作り、プレイヤーのall_unitsのdictに格納し、座標も正しい値に初期化する。
 
 **Thoughts:**
-- One third the way done with this 100DaysOfCode!
+- Got creative today by using getattrb() to test the class original module to determine if it is a unit.
 
 **思ったこと**
-- 
+- getattrib()を使い、クラスのモジュールを取得し、unitかどうか判断するクリエイティブな発想が働いたのがよかった。
