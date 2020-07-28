@@ -508,3 +508,36 @@ Like the weekends with extra time for coding and allows me to tackle larger task
 
 **思ったこと**
 - しばらく前からやろうと思っていたことを実現できると気持ちいいね。
+
+### Day 34: 2020/07/27 43:50 + 1:09  = 44:59
+
+**Today's Progress**:
+- Fixing city functions so housing and trade modes work.
+- Unrest fixes.
+
+**今日の進捗**:
+- 住居増産、貿易強化モードの対応
+- 市民不安が正しく作動するように修正。
+
+**Thoughts:**
+- One third the way done with this 100DaysOfCode!
+
+**思ったこと**
+
+- 100DaysOfCodeの1/3を無事完走することができました
+
+### Day 35: 2020/07/28 44:59 + 1:05  = 46:04
+
+**Today's Progress**:
+- Unrest bug from old code. Now adjusts pop depending upon unrest levels (+/-)
+- Unrest fixes.
+
+**今日の進捗**:
+- 住居増産、貿易強化モードの対応
+- 市民不安が正しく作動するように修正。
+
+**Thoughts:**
+- One third the way done with this 100DaysOfCode!
+
+**思ったこと**
+- 
