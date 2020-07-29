@@ -540,3 +540,21 @@ Like the weekends with extra time for coding and allows me to tackle larger task
 
 **思ったこと**
 - getattrib()を使い、クラスのモジュールを取得し、unitかどうか判断するクリエイティブな発想が働いたのがよかった。
+
+### Day 36: 2020/07/29 46:04 + 1:05  = 46:04
+
+**Today's Progress**:
+- Refactoring production functions
+- Added unit support for city setup
+- Added many missing unit classes
+
+**今日の進捗**:
+- 都市の生産関数のリファクタリング
+- 新規都市のセットアップ関数にユニットの対応もできるようになった
+- 漏れていたいくつかのユニットクラスを追加
+
+**Thoughts:**
+- I think there could be a lot of bugs hiding in the unit module.
+
+**思ったこと**
+- unitモジュールは色々とバグ潜んでそう。
