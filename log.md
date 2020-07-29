@@ -541,7 +541,7 @@ Like the weekends with extra time for coding and allows me to tackle larger task
 **思ったこと**
 - getattrib()を使い、クラスのモジュールを取得し、unitかどうか判断するクリエイティブな発想が働いたのがよかった。
 
-### Day 36: 2020/07/29 46:04 + 1:05  = 46:04
+### Day 36: 2020/07/29 46:04 + 1:10  = 47:14
 
 **Today's Progress**:
 - Refactoring production functions
